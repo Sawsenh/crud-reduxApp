@@ -1,0 +1,6 @@
+{
+  "posts": [
+    { "id": 1, "title": "first title", "desc": "first desc to our project" },
+     { "id": 2, "title": "some comment", "desc": "second desc to our project" }
+  ]
+}
